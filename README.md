@@ -6,7 +6,7 @@ Data Engineer at [Capgemini](https://www.capgemini.com/) with over 2 years of ex
 - [Shiny app analysing COVID-19 death-related data](https://rkali.shinyapps.io/covid-deaths-shiny-app/)
 - [Simple python ETL](https://github.com/rafalkaliszczuk/python-simple-etl)
 - [Spam classification](https://github.com/rafalkaliszczuk/spam-classification/blob/main/spam-classification.ipynb)
-- [Databricks EDA]() (wip)
+- [Databricks EDA](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7692830869965228/2723792914030853/6165466587622133/latest.html)
 
 ### `Tech stack` <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
